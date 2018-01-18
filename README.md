@@ -1,4 +1,4 @@
-# Pima CC CIS178 Week #1 2.29 Exercise
+# Pima CC CIS278 Week #1 2.29 Exercise
 
 Exercise 2.29 on page 71 - (Table) Using the techniques of this chapter,
 write a program that calculate the squares and cubes of the integers
